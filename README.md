@@ -1,2 +1,2 @@
-# Java a Pro
+# Java a Program
 Square Star Pattern Program In Java
